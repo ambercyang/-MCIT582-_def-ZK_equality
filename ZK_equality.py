@@ -50,19 +50,7 @@ def ZK_equality(G,H):
     return (C1,C2), (D1,D2), zk_proof
 
 
-# In[3]:
 
-
-G, H = utils.make_generators(num=2, seed=42)
-
-
-# In[4]:
-
-
-ZK_equality(G,H)
-
-
-# In[ ]:
 
 
 
